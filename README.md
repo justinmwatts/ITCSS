@@ -1,5 +1,4 @@
-# ITCSS
-Inverted Triangle CSS Architecture
+# ITCSS (Inverted Triangle CSS)
 
 Architect your CSS in a tactical way for large scale and long-term project. Use it with BIM for the ultimate CSS architecture.
 
