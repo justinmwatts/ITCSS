@@ -1,7 +1,7 @@
 # ITCSS
 Inverted Triangle CSS Architecture
 
-Architect your CSS in a tactical way for large scale and long-term project. Use it with BIM for the ultimate CSS artitecture.
+Architect your CSS in a tactical way for large scale and long-term project. Use it with BIM for the ultimate CSS architecture.
 
 
 
